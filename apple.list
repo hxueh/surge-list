@@ -1,0 +1,19 @@
+DOMAIN,appleiphonecell.com
+DOMAIN,support.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN-KEYWORD,icloud,
+DOMAIN-KEYWORD,itunes,
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co,
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appsto.re,
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,e.crashlytics.com
+DOMAIN-SUFFIX,gs-loc.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
+PROCESS-NAME,storedownloadd // Mac App Store,
+USER-AGENT,com.apple.appstored* // iOS App Store
