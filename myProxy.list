@@ -1,2 +1,2 @@
-USER-AGENT,com.apple.news
-USER-AGENT,AppleNews
+USER-AGENT,com.apple.news*
+USER-AGENT,AppleNews*
